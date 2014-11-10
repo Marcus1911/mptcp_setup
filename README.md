@@ -6,7 +6,7 @@ Installing MPTCP on Ubuntu 13.10 (EC2)
 
 Run the following:
 
-`sudo ./install_mptcp_quantal.sh` 
+`sudo ./install_mptcp_saucy.sh` 
 
 Read the output! There is some manual verification and rebooting to be done.       
 
