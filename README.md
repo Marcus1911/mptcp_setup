@@ -1,7 +1,7 @@
 Setup MPTCP and POX
 ===================
 
-Installing MPTCP on Ubuntu 12.10 (EC2)
+Installing MPTCP on Ubuntu 13.10 (EC2)
 --------------------------------------
 
 Run the following:
