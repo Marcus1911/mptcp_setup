@@ -19,4 +19,10 @@ git clone git://github.com/noxrepo/pox.git
 cd pox
 git checkout master
 
+# Building Termcolor
+cd mptcp_setup
+tar xvf termcolor-1.1.0.tar.gz
+cd termcolor-1.1.0
+python setup.py install
+
 cd ~
